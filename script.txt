@@ -1,0 +1,11 @@
+#VIDEO_TEMPLATE 1.1 - Intro to
+
+#VIDEO_TEMPLATE 1.2 - Outro to
+
+
+
+#VIDEO_TEMPLATE 1.1 - Intro to
+Hey Chris from Codify Academy here, in this video I want to explore what happens to elements when we change their display value to inline-block; and how it differs from the block and inline value.
+
+#VIDEO_TEMPLATE 1.2 - Outro to
+Well that's it for now, hopefully, you'll remember when to use these but as always practice with it and review. and don't be afraid to try and get stuff wrong you can try applying display: block, inline or inline-block to any tag you want!
